@@ -1,0 +1,6 @@
+[submodule "chore-wheel-web"]
+	path = chore-wheel-web
+	url = git@github.com:peacecraft-ai/chore-wheel-web.git
+[submodule "chore-wheel-api"]
+	path = chore-wheel-api
+	url = git@github.com:peacecraft-ai/chore-wheel-api.git
